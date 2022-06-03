@@ -1,0 +1,2 @@
+[02-Aug-2021 13:42:32 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.27. in /home/a6dbxqs6qj5t/public_html/crypto/vendor/composer/platform_check.php on line 24
+[02-Aug-2021 13:47:37 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.27. in /home/a6dbxqs6qj5t/public_html/crypto/vendor/composer/platform_check.php on line 24
